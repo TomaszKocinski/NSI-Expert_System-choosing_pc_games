@@ -1,0 +1,6 @@
+Atom
+Pentium
+i3
+i5
+i7
+Xeon

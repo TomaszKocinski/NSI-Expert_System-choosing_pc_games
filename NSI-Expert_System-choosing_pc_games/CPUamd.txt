@@ -1,0 +1,6 @@
+Phenom
+Phenom II
+Athlon
+Athlon X2
+Sempron
+Buldozer
